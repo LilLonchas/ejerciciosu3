@@ -1,0 +1,7 @@
+[
+    { "id": 1, "superhero": "Spider-Man", "publisher": "Marvel Comics" },
+    { "id": 2, "superhero": "Iron Man", "publisher": "Marvel Comics" },
+    { "id": 3, "superhero": "Batman", "publisher": "DC Comics" },
+    { "id": 4, "superhero": "Superman", "publisher": "DC Comics" }
+  ]
+  
